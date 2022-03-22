@@ -12,15 +12,15 @@ With this project we have conducted multiple models for backtesting strategies f
 
 This project utilizes python 3.7 along with the following packages:
 
-*[pandas](https://pandas.pydata.org/)
+* [pandas](https://pandas.pydata.org/)
 
-*[numpy]()
+* [numpy]()
 
-*[sklearn]()
+* [sklearn]()
 
-*[matplotlib]()
+* [matplotlib]()
 
-*[seaborn]()
+* [seaborn]()
 
-*[yfinance]()
+* [yfinance]()
 
