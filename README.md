@@ -36,11 +36,11 @@ This project utilizes Python 3.7 along with the following packages:
 
 ## Contributors
 
-* Josh Mischung:
+* Josh Mischung: josh@knoasis.io // [LinkedIn]()
 
-* Max Acheson:
+* Max Acheson: maxacheson@gmail.com // [LinkedIn]()
 
-* Emily Bertani:
+* Emily Bertani: emily.bertani.md@gmail.com // [LinkedIn](https://www.linkedin.com/in/emily-bertani-1ab184222/)
 
 ## License
 
