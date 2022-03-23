@@ -2,7 +2,7 @@
 
 ---
 
-With this project we have conducted multiple models for backtesting strategies for various stocks. 
+With this project we have constructed multiple models to determine optimal backtesting strategies. Once the desired models and strategies have been determined, they can be tested on various stocks of one's choosing.
 
 ---
 
@@ -38,7 +38,7 @@ This project utilizes Python 3.7 along with the following packages:
 
 * Josh Mischung: josh@knoasis.io // [LinkedIn]()
 
-* Max Acheson: maxacheson@gmail.com // [LinkedIn]()
+* Max Acheson: maxacheson@gmail.com // [LinkedIn](https://www.linkedin.com/in/max-acheson-75093a19a/)
 
 * Emily Bertani: emily.bertani.md@gmail.com // [LinkedIn](https://www.linkedin.com/in/emily-bertani-1ab184222/)
 
