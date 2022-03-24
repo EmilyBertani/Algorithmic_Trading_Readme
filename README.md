@@ -29,12 +29,17 @@ This project utilizes Python 3.7 along with the following packages:
 ## Installation Guide
 
 ### Data Objects
+
 `import numpy as np`
+
 `import pandas as pd`
+
 `from datetime import datetime as dt, timedelta as td`
 
 ### Plotting
+
 `import matplotlib.pyplot as plt`
+
 `import matplotlib.gridspec as gridspec`
 
 ### Data Collection
