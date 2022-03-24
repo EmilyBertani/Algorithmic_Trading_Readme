@@ -2,7 +2,7 @@
 
 ---
 
-With this project we have constructed multiple models to determine optimal backtesting strategies. Once the desired models and strategies have been determined, they can be tested on various stocks of one's choosing.
+With this project we have constructed multiple models to determine optimal algorithmic trading backtesting strategies. Once the desired models and strategies have been determined, they can be tested on various stocks of one's choosing.
 
 ---
 
