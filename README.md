@@ -60,10 +60,10 @@ This project utilizes Python 3.7 along with the following packages:
 
 `from sklearn.linear_model import LogisticRegression`
 
-```from sklearn.discriminant_analysis import(
+`from sklearn.discriminant_analysis import(
     LinearDiscriminantAnalysis as LDA,
     QuadraticDiscriminantAnalysis as QDA
-)```
+)`
 
 `from sklearn.svm import LinearSVC, SVC`
 
