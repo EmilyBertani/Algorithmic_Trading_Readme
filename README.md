@@ -54,25 +54,26 @@ This project utilizes Python 3.7 along with the following packages:
 
 `from sklearn.pipeline import Pipeline`
 
-### Models
+#### Models
 
 `from sklearn.ensemble import RandomForestClassifier`
 
 `from sklearn.linear_model import LogisticRegression`
 
-`from sklearn.discriminant_analysis import (`
-    `LinearDiscriminantAnalysis as LDA,`
-    `QuadraticDiscriminantAnalysis as QDA)`
+```from sklearn.discriminant_analysis import(
+    LinearDiscriminantAnalysis as LDA,
+    QuadraticDiscriminantAnalysis as QDA
+)```
 
 `from sklearn.svm import LinearSVC, SVC`
 
-### Evaluation
+#### Evaluation
 
 `from sklearn.metrics import classification_report`
 
-### Settings
+#### Settings
 
-`yf.pdr_override()``
+`yf.pdr_override()`
 
 ---
 
