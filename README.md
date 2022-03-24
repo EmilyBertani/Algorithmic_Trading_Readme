@@ -28,7 +28,7 @@ This project utilizes Python 3.7 along with the following packages:
 
 ## Installation Guide
 
-### Data Objects
+#### Data Objects
 
 `import numpy as np`
 
@@ -36,23 +36,30 @@ This project utilizes Python 3.7 along with the following packages:
 
 `from datetime import datetime as dt, timedelta as td`
 
-### Plotting
+#### Plotting
 
 `import matplotlib.pyplot as plt`
 
 `import matplotlib.gridspec as gridspec`
 
-### Data Collection
+#### Data Collection
+
 `import pandas_datareader.data as pdr`
+
 `import yfinance as yf`
 
-### Preprocessing and Pipeline
+#### Preprocessing and Pipeline
+
 `from sklearn.preprocessing import RobustScaler`
+
 `from sklearn.pipeline import Pipeline`
 
 ### Models
+
 `from sklearn.ensemble import RandomForestClassifier`
+
 `from sklearn.linear_model import LogisticRegression`
+
 `from sklearn.discriminant_analysis import (`
     `LinearDiscriminantAnalysis as LDA,`
     `QuadraticDiscriminantAnalysis as QDA)`
@@ -60,9 +67,11 @@ This project utilizes Python 3.7 along with the following packages:
 `from sklearn.svm import LinearSVC, SVC`
 
 ### Evaluation
+
 `from sklearn.metrics import classification_report`
 
 ### Settings
+
 `yf.pdr_override()``
 
 ---
